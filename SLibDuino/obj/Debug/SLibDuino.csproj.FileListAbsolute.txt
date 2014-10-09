@@ -1,0 +1,60 @@
+C:\Documents and Settings\Siyuan Gao\my documents\visual studio 2010\Projects\SLibDuino\SLibDuino\bin\Debug\le\SLibDuino.exe
+C:\Documents and Settings\Siyuan Gao\my documents\visual studio 2010\Projects\SLibDuino\SLibDuino\bin\Debug\be\SLibDuino.exe
+C:\Documents and Settings\Siyuan Gao\my documents\visual studio 2010\Projects\SLibDuino\SLibDuino\bin\Debug\le\SLibDuino.pdb
+C:\Documents and Settings\Siyuan Gao\my documents\visual studio 2010\Projects\SLibDuino\SLibDuino\bin\Debug\be\SLibDuino.pdb
+C:\Documents and Settings\Siyuan Gao\my documents\visual studio 2010\Projects\SLibDuino\SLibDuino\bin\Debug\SLibDuino.exe
+C:\Documents and Settings\Siyuan Gao\my documents\visual studio 2010\Projects\SLibDuino\SLibDuino\bin\Debug\SLibDuino.pdb
+C:\Documents and Settings\Siyuan Gao\my documents\visual studio 2010\Projects\SLibDuino\SLibDuino\bin\Debug\le\SLibDuino.pe
+C:\Documents and Settings\Siyuan Gao\my documents\visual studio 2010\Projects\SLibDuino\SLibDuino\bin\Debug\le\SLibDuino.pdbx
+C:\Documents and Settings\Siyuan Gao\my documents\visual studio 2010\Projects\SLibDuino\SLibDuino\bin\Debug\be\SLibDuino.pe
+C:\Documents and Settings\Siyuan Gao\my documents\visual studio 2010\Projects\SLibDuino\SLibDuino\bin\Debug\be\SLibDuino.pdbx
+C:\Documents and Settings\Siyuan Gao\my documents\visual studio 2010\Projects\SLibDuino\SLibDuino\bin\Debug\LE\SecretLabs.NETMF.Hardware.pe
+C:\Documents and Settings\Siyuan Gao\my documents\visual studio 2010\Projects\SLibDuino\SLibDuino\bin\Debug\LE\SecretLabs.NETMF.Hardware.NetduinoPlus.pe
+C:\Documents and Settings\Siyuan Gao\my documents\visual studio 2010\Projects\SLibDuino\SLibDuino\bin\Debug\BE\SecretLabs.NETMF.Hardware.pe
+C:\Documents and Settings\Siyuan Gao\my documents\visual studio 2010\Projects\SLibDuino\SLibDuino\bin\Debug\BE\SecretLabs.NETMF.Hardware.NetduinoPlus.pe
+C:\Documents and Settings\Siyuan Gao\my documents\visual studio 2010\Projects\SLibDuino\SLibDuino\bin\Debug\LE\SecretLabs.NETMF.Hardware.pdbx
+C:\Documents and Settings\Siyuan Gao\my documents\visual studio 2010\Projects\SLibDuino\SLibDuino\bin\Debug\LE\SecretLabs.NETMF.Hardware.NetduinoPlus.pdbx
+C:\Documents and Settings\Siyuan Gao\my documents\visual studio 2010\Projects\SLibDuino\SLibDuino\bin\Debug\BE\SecretLabs.NETMF.Hardware.pdbx
+C:\Documents and Settings\Siyuan Gao\my documents\visual studio 2010\Projects\SLibDuino\SLibDuino\bin\Debug\BE\SecretLabs.NETMF.Hardware.NetduinoPlus.pdbx
+C:\Documents and Settings\Siyuan Gao\my documents\visual studio 2010\Projects\SLibDuino\SLibDuino\bin\Debug\SecretLabs.NETMF.Hardware.dll
+C:\Documents and Settings\Siyuan Gao\my documents\visual studio 2010\Projects\SLibDuino\SLibDuino\bin\Debug\SecretLabs.NETMF.Hardware.NetduinoPlus.dll
+C:\Documents and Settings\Siyuan Gao\my documents\visual studio 2010\Projects\SLibDuino\SLibDuino\bin\Debug\SecretLabs.NETMF.Hardware.pdb
+C:\Documents and Settings\Siyuan Gao\my documents\visual studio 2010\Projects\SLibDuino\SLibDuino\bin\Debug\SecretLabs.NETMF.Hardware.NetduinoPlus.pdb
+C:\Documents and Settings\Siyuan Gao\my documents\visual studio 2010\Projects\SLibDuino\SLibDuino\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Siyuan Gao\my documents\visual studio 2010\Projects\SLibDuino\SLibDuino\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Documents and Settings\Siyuan Gao\my documents\visual studio 2010\Projects\SLibDuino\SLibDuino\obj\Debug\be\SLibDuino.pe
+C:\Documents and Settings\Siyuan Gao\my documents\visual studio 2010\Projects\SLibDuino\SLibDuino\obj\Debug\be\SLibDuino.pdbx
+C:\Documents and Settings\Siyuan Gao\my documents\visual studio 2010\Projects\SLibDuino\SLibDuino\obj\Debug\le\SLibDuino.pe
+C:\Documents and Settings\Siyuan Gao\my documents\visual studio 2010\Projects\SLibDuino\SLibDuino\obj\Debug\le\SLibDuino.pdbx
+C:\Documents and Settings\Siyuan Gao\my documents\visual studio 2010\Projects\SLibDuino\SLibDuino\obj\Debug\SLibDuino.exe
+C:\Documents and Settings\Siyuan Gao\my documents\visual studio 2010\Projects\SLibDuino\SLibDuino\obj\Debug\SLibDuino.pdb
+C:\Users\Siyuan Gao\Dropbox\Projects\SLibDuino\SLibDuino\bin\Debug\le\SLibDuino.exe
+C:\Users\Siyuan Gao\Dropbox\Projects\SLibDuino\SLibDuino\bin\Debug\be\SLibDuino.exe
+C:\Users\Siyuan Gao\Dropbox\Projects\SLibDuino\SLibDuino\bin\Debug\le\SLibDuino.pdb
+C:\Users\Siyuan Gao\Dropbox\Projects\SLibDuino\SLibDuino\bin\Debug\be\SLibDuino.pdb
+C:\Users\Siyuan Gao\Dropbox\Projects\SLibDuino\SLibDuino\bin\Debug\SLibDuino.exe
+C:\Users\Siyuan Gao\Dropbox\Projects\SLibDuino\SLibDuino\bin\Debug\SLibDuino.pdb
+C:\Users\Siyuan Gao\Dropbox\Projects\SLibDuino\SLibDuino\bin\Debug\le\SLibDuino.pe
+C:\Users\Siyuan Gao\Dropbox\Projects\SLibDuino\SLibDuino\bin\Debug\le\SLibDuino.pdbx
+C:\Users\Siyuan Gao\Dropbox\Projects\SLibDuino\SLibDuino\bin\Debug\be\SLibDuino.pe
+C:\Users\Siyuan Gao\Dropbox\Projects\SLibDuino\SLibDuino\bin\Debug\be\SLibDuino.pdbx
+C:\Users\Siyuan Gao\Dropbox\Projects\SLibDuino\SLibDuino\bin\Debug\LE\SecretLabs.NETMF.Hardware.pe
+C:\Users\Siyuan Gao\Dropbox\Projects\SLibDuino\SLibDuino\bin\Debug\LE\SecretLabs.NETMF.Hardware.NetduinoPlus.pe
+C:\Users\Siyuan Gao\Dropbox\Projects\SLibDuino\SLibDuino\bin\Debug\BE\SecretLabs.NETMF.Hardware.pe
+C:\Users\Siyuan Gao\Dropbox\Projects\SLibDuino\SLibDuino\bin\Debug\BE\SecretLabs.NETMF.Hardware.NetduinoPlus.pe
+C:\Users\Siyuan Gao\Dropbox\Projects\SLibDuino\SLibDuino\bin\Debug\LE\SecretLabs.NETMF.Hardware.pdbx
+C:\Users\Siyuan Gao\Dropbox\Projects\SLibDuino\SLibDuino\bin\Debug\LE\SecretLabs.NETMF.Hardware.NetduinoPlus.pdbx
+C:\Users\Siyuan Gao\Dropbox\Projects\SLibDuino\SLibDuino\bin\Debug\BE\SecretLabs.NETMF.Hardware.pdbx
+C:\Users\Siyuan Gao\Dropbox\Projects\SLibDuino\SLibDuino\bin\Debug\BE\SecretLabs.NETMF.Hardware.NetduinoPlus.pdbx
+C:\Users\Siyuan Gao\Dropbox\Projects\SLibDuino\SLibDuino\bin\Debug\SecretLabs.NETMF.Hardware.dll
+C:\Users\Siyuan Gao\Dropbox\Projects\SLibDuino\SLibDuino\bin\Debug\SecretLabs.NETMF.Hardware.NetduinoPlus.dll
+C:\Users\Siyuan Gao\Dropbox\Projects\SLibDuino\SLibDuino\bin\Debug\SecretLabs.NETMF.Hardware.pdb
+C:\Users\Siyuan Gao\Dropbox\Projects\SLibDuino\SLibDuino\bin\Debug\SecretLabs.NETMF.Hardware.NetduinoPlus.pdb
+C:\Users\Siyuan Gao\Dropbox\Projects\SLibDuino\SLibDuino\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Siyuan Gao\Dropbox\Projects\SLibDuino\SLibDuino\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\Siyuan Gao\Dropbox\Projects\SLibDuino\SLibDuino\obj\Debug\be\SLibDuino.pe
+C:\Users\Siyuan Gao\Dropbox\Projects\SLibDuino\SLibDuino\obj\Debug\be\SLibDuino.pdbx
+C:\Users\Siyuan Gao\Dropbox\Projects\SLibDuino\SLibDuino\obj\Debug\le\SLibDuino.pe
+C:\Users\Siyuan Gao\Dropbox\Projects\SLibDuino\SLibDuino\obj\Debug\le\SLibDuino.pdbx
+C:\Users\Siyuan Gao\Dropbox\Projects\SLibDuino\SLibDuino\obj\Debug\SLibDuino.exe
+C:\Users\Siyuan Gao\Dropbox\Projects\SLibDuino\SLibDuino\obj\Debug\SLibDuino.pdb
